@@ -1,0 +1,2 @@
+# blogs
+Batinay's Blog
